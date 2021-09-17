@@ -32,14 +32,5 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 # Warning
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
 
-# I have some questions!
-
-Please visit https://github.com/LionSec/katoolin/issues
-
-# Donations
-- Paypal : https://www.paypal.me/lionsec
-- skrill : informatica98es@gmail.com
-
-
 # Contact
 - Website : https://pantheack.github.io
