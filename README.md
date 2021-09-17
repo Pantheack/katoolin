@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
 
 # Contact
-- Website : https://pantheack.github.io
+- Website : https://pantheack.github.io/contact-me.html
